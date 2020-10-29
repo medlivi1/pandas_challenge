@@ -1,10 +1,10 @@
 # Pandas Challenge
 
 ## Description
- Analise the date of an independent gaming company’s most recent fantasy game. 
+ Analize the date of an independent gaming company most recent fantasy game. 
 
 ## Objective
- Generate a report that breaks down the game’s purchasing data into meaningful insights.
+ Generate a report that breaks down the Heroes of Pymoli game purchasing data into meaningful insights.
 
 ## Resources
 *	Pandas library
