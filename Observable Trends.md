@@ -11,8 +11,11 @@
      * Maintain and increase the game main target group: 15 to 24 year-old users with loyalty and acquisition tactics.
      
      * Develop new segmentation within markets with high potential to increase profitability.
+       
        *Women market
+       
        *Correlation between 35 and 39 age group with age group < 10: Parents and children
+       
        *Families, multi target concept. Everybody in the house plays, "family packages"
       
      * Create an aspirational brand image with existing profitable items and continue developing new items that generate vibrant and positive emotions.
