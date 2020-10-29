@@ -4,3 +4,15 @@
 * Male players represented the highest majority with 84% of the total players following by women with 14%, although women made almost 10% more of the men avg total purchase per person with $4.47.
 * The avg total purchase value per person from the 5 top Heroes of Pymoly game spenders is $15.00 which is around $10.00 more from the 35 to 39 age category which can be a good parameter to visualize that there is a gap for improvement if the right strategies are implemented.
 * The avg total purchase value of the 5 most profitable items of the game company portfolio was 7% higher than the avg total purchase value of what the 5 most popular games generated which is an indicator that the sale mix per item goes in the right direction since profitability led over volumen.
+
+  ## Recommendations
+     Base on the trend anylisis of the Heroes of Pymoly game performance the following are some marketing strategies that are suggested to turn the existing oppotunities in the market place into actions to drive goals:
+     
+     * Maintain and increase the game main target group: 15 to 24 year-old users with loyaty and acquisition tactics.
+     
+     * Develop new segmentation within markets with high potential to increase profitability
+        *Women market
+        *Correlation between 35 and 39 age group with age group < 10: Parents and children
+        *Families, multi target concept. Everybody in the house play, "family packages"
+     
+     
